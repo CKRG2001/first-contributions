@@ -1263,6 +1263,7 @@
 - [PyaeSone](https://github.com/pyae198022)
 - [Atsushi Koyake](https://github.com/devAtsushiKoyake)
 - [Marinos33](https://github.com/Marinos33)
+- [CKR](https://github.com/CKRG2001)
 - [40tude](https://github.com/40tude)
 - [Hadi Purnomo](https://github.com/cephadi)
 - [tester-327](https://github.com/tester327)
